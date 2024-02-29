@@ -1,0 +1,972 @@
+[I 00:26:00.156 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:26:00.157 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 00:26:00.157 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 00:26:00.157 NotebookApp] http://localhost:8889/?token=5d87498f7b1dc9e700475ab7ef1fbc8a1f5fab636499d505
+[I 00:26:00.157 NotebookApp]  or http://127.0.0.1:8889/?token=5d87498f7b1dc9e700475ab7ef1fbc8a1f5fab636499d505
+[I 00:26:00.157 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:26:00.175 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-127927-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=5d87498f7b1dc9e700475ab7ef1fbc8a1f5fab636499d505
+     or http://127.0.0.1:8889/?token=5d87498f7b1dc9e700475ab7ef1fbc8a1f5fab636499d505
+[C 00:50:39.096 NotebookApp] received signal 15, stopping
+[I 00:50:39.097 NotebookApp] Shutting down 0 kernels
+[I 00:50:39.098 NotebookApp] Shutting down 0 terminals
+[I 01:08:13.550 NotebookApp] The port 8888 is already in use, trying another port.
+[I 01:08:13.551 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 01:08:13.551 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 01:08:13.551 NotebookApp] http://localhost:8889/?token=906ed34aaad85bb9ffe00882b3e15d6d7a9e1c51b1176283
+[I 01:08:13.551 NotebookApp]  or http://127.0.0.1:8889/?token=906ed34aaad85bb9ffe00882b3e15d6d7a9e1c51b1176283
+[I 01:08:13.551 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:08:13.554 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-128699-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=906ed34aaad85bb9ffe00882b3e15d6d7a9e1c51b1176283
+     or http://127.0.0.1:8889/?token=906ed34aaad85bb9ffe00882b3e15d6d7a9e1c51b1176283
+[I 23:08:17.385 NotebookApp] The port 8888 is already in use, trying another port.
+[I 23:08:17.385 NotebookApp] The port 8889 is already in use, trying another port.
+[I 23:08:17.386 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 23:08:17.386 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 23:08:17.386 NotebookApp] http://localhost:8890/?token=af93827d07fac95cbba819266a8d7a6d3db50b0861807ad0
+[I 23:08:17.386 NotebookApp]  or http://127.0.0.1:8890/?token=af93827d07fac95cbba819266a8d7a6d3db50b0861807ad0
+[I 23:08:17.386 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:08:17.389 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-132855-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=af93827d07fac95cbba819266a8d7a6d3db50b0861807ad0
+     or http://127.0.0.1:8890/?token=af93827d07fac95cbba819266a8d7a6d3db50b0861807ad0
+[C 23:44:22.426 NotebookApp] received signal 15, stopping
+[I 23:44:22.427 NotebookApp] Shutting down 0 kernels
+[I 23:44:22.427 NotebookApp] Shutting down 0 terminals
+[C 23:44:30.232 NotebookApp] received signal 15, stopping
+[I 23:44:30.233 NotebookApp] Shutting down 0 kernels
+[I 23:44:30.233 NotebookApp] Shutting down 0 terminals
+[I 00:09:53.439 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:09:53.440 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 00:09:53.440 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 00:09:53.440 NotebookApp] http://localhost:8889/?token=e704e3f4ce8ccbc57c588a8286e062278093011e90c30424
+[I 00:09:53.440 NotebookApp]  or http://127.0.0.1:8889/?token=e704e3f4ce8ccbc57c588a8286e062278093011e90c30424
+[I 00:09:53.440 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:09:53.443 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-133033-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=e704e3f4ce8ccbc57c588a8286e062278093011e90c30424
+     or http://127.0.0.1:8889/?token=e704e3f4ce8ccbc57c588a8286e062278093011e90c30424
+[C 00:44:24.295 NotebookApp] received signal 15, stopping
+[I 00:44:24.296 NotebookApp] Shutting down 0 kernels
+[I 00:44:24.297 NotebookApp] Shutting down 0 terminals
+[I 00:44:57.849 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:44:57.850 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 00:44:57.850 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 00:44:57.850 NotebookApp] http://localhost:8889/?token=f5e8af18ef70035ba3c4491e872b678f7e48d16e12f94ba8
+[I 00:44:57.850 NotebookApp]  or http://127.0.0.1:8889/?token=f5e8af18ef70035ba3c4491e872b678f7e48d16e12f94ba8
+[I 00:44:57.850 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:44:57.853 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-133149-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=f5e8af18ef70035ba3c4491e872b678f7e48d16e12f94ba8
+     or http://127.0.0.1:8889/?token=f5e8af18ef70035ba3c4491e872b678f7e48d16e12f94ba8
+[I 00:49:33.646 NotebookApp] 302 GET /?token=f5e8af18ef70035ba3c4491e872b678f7e48d16e12f94ba8 (127.0.0.1) 0.790000ms
+[W 00:49:44.561 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 00:49:45.523 NotebookApp] Kernel started: 4c1097c3-3780-4949-b607-39cb092bb564, name: python3
+[W 00:49:45.665 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231122004457 (127.0.0.1) 21.730000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 00:50:17.091 NotebookApp] Shutting down on /api/shutdown request.
+[I 00:50:17.092 NotebookApp] Shutting down 1 kernel
+[I 00:50:17.093 NotebookApp] Kernel shutdown: 4c1097c3-3780-4949-b607-39cb092bb564
+[I 00:50:17.186 NotebookApp] Starting buffering for 4c1097c3-3780-4949-b607-39cb092bb564:caf66b336e2d4e538f0abfee8af2ad7a
+[I 00:50:17.194 NotebookApp] Kernel shutdown: 4c1097c3-3780-4949-b607-39cb092bb564
+[E 00:50:17.194 NotebookApp] Uncaught exception DELETE /api/sessions/1feac818-3783-45dc-bfef-d3aa6c1d9717 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='DELETE', uri='/api/sessions/1feac818-3783-45dc-bfef-d3aa6c1d9717', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/sakib.mc1/anaconda3/envs/mcml/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 262, in _async_shutdown_kernel
+        if not km.ready.cancelled() and km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 00:50:17.293 NotebookApp] Unhandled error
+[E 00:50:17.294 NotebookApp] {
+      "Host": "localhost:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://localhost:8888/notebooks/MHMC%20KMC.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    }
+[E 00:50:17.294 NotebookApp] 500 DELETE /api/sessions/1feac818-3783-45dc-bfef-d3aa6c1d9717 (127.0.0.1) 102.610000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 00:50:17.408 NotebookApp] Shutting down 0 terminals
+[I 15:46:13.145 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:46:13.145 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 15:46:13.145 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 15:46:13.145 NotebookApp] http://localhost:8889/?token=65a2039f476216d49ab808bd846c02922c1e8e57831f508d
+[I 15:46:13.145 NotebookApp]  or http://127.0.0.1:8889/?token=65a2039f476216d49ab808bd846c02922c1e8e57831f508d
+[I 15:46:13.145 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:46:13.148 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-154932-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=65a2039f476216d49ab808bd846c02922c1e8e57831f508d
+     or http://127.0.0.1:8889/?token=65a2039f476216d49ab808bd846c02922c1e8e57831f508d
+[I 15:49:08.089 NotebookApp] 302 GET /?token=65a2039f476216d49ab808bd846c02922c1e8e57831f508d (127.0.0.1) 0.790000ms
+[W 15:49:16.795 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 15:49:17.559 NotebookApp] Kernel started: 0915adae-1a64-4f7c-bb6b-f62a552637a3, name: python3
+[W 15:49:17.683 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231122154612 (127.0.0.1) 14.090000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 15:50:03.944 NotebookApp] Starting buffering for 0915adae-1a64-4f7c-bb6b-f62a552637a3:c02813162493471d9a7b51c2c4ff102b
+[I 15:50:03.953 NotebookApp] Kernel shutdown: 0915adae-1a64-4f7c-bb6b-f62a552637a3
+[I 15:50:08.973 NotebookApp] Shutting down on /api/shutdown request.
+[I 15:50:08.974 NotebookApp] Shutting down 0 kernels
+[I 15:50:08.974 NotebookApp] Shutting down 0 terminals
+[I 15:56:59.782 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:56:59.782 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 15:56:59.782 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 15:56:59.782 NotebookApp] http://localhost:8889/?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123
+[I 15:56:59.782 NotebookApp]  or http://127.0.0.1:8889/?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123
+[I 15:56:59.782 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:56:59.785 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-156991-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123
+     or http://127.0.0.1:8889/?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123
+[I 15:58:48.555 NotebookApp] 302 GET /?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123 (127.0.0.1) 0.790000ms
+[W 15:58:52.499 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[W 15:58:53.100 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231122155659 (127.0.0.1) 12.930000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 15:58:53.104 NotebookApp] Kernel started: 56b3de6c-2d4a-451d-a2bc-b8e6ee33f8c4, name: python3
+[I 16:00:53.259 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 16:00:53.260 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 16:02:53.674 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 16:02:53.675 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 16:04:53.264 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 16:04:53.266 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 16:06:53.259 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 16:06:53.261 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 16:08:53.252 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 16:08:53.253 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[W 19:54:23.745 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 19:54:28.751 NotebookApp] Starting buffering for 56b3de6c-2d4a-451d-a2bc-b8e6ee33f8c4:808e4730cc544c018439e421f2282315
+[I 00:54:43.251 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:54:43.251 NotebookApp] The port 8889 is already in use, trying another port.
+[I 00:54:43.251 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 00:54:43.251 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 00:54:43.252 NotebookApp] http://localhost:8890/?token=5fe0276ee116f95e2848c7d9c2d23b77507eecff999745b7
+[I 00:54:43.252 NotebookApp]  or http://127.0.0.1:8890/?token=5fe0276ee116f95e2848c7d9c2d23b77507eecff999745b7
+[I 00:54:43.252 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:54:43.255 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-157610-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=5fe0276ee116f95e2848c7d9c2d23b77507eecff999745b7
+     or http://127.0.0.1:8890/?token=5fe0276ee116f95e2848c7d9c2d23b77507eecff999745b7
+[I 00:57:15.044 NotebookApp] 302 GET /?token=b890780f5eb90e1a3a9b4e33eb398b082f4567ceaeb24123 (127.0.0.1) 1.820000ms
+[W 00:57:19.635 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[W 00:57:19.881 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231122155659 (127.0.0.1) 2.480000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 00:59:20.822 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 00:59:20.823 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:01:20.827 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:01:20.829 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:03:20.830 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:03:20.831 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:07:20.797 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:07:20.798 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:09:20.801 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:09:20.803 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:11:21.481 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:11:21.482 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:15:20.795 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:15:20.796 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:17:20.827 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:17:20.828 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:19:20.801 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:19:20.802 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:21:20.816 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:21:20.818 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 01:25:20.808 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 01:25:20.809 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:09:20.861 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:09:20.862 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:11:20.804 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:11:20.806 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:13:20.812 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:13:20.813 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:15:20.791 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:15:20.792 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:17:20.804 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:17:20.805 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:21:53.353 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:21:53.355 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:21:56.682 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 02:21:56.684 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 02:22:02.707 NotebookApp] Starting buffering for 56b3de6c-2d4a-451d-a2bc-b8e6ee33f8c4:53523be230bc4c2c8fcaf64684d14551
+[I 02:22:02.714 NotebookApp] Kernel shutdown: 56b3de6c-2d4a-451d-a2bc-b8e6ee33f8c4
+[I 02:22:06.016 NotebookApp] Shutting down on /api/shutdown request.
+[I 02:22:06.017 NotebookApp] Shutting down 0 kernels
+[I 02:22:06.017 NotebookApp] Shutting down 0 terminals
+usage: jupyter [-h] [--version] [--config-dir] [--data-dir] [--runtime-dir]
+               [--paths] [--json] [--debug]
+               [subcommand]
+
+Jupyter: Interactive Computing
+
+positional arguments:
+  subcommand     the subcommand to launch
+
+optional arguments:
+  -h, --help     show this help message and exit
+  --version      show the versions of core jupyter packages and exit
+  --config-dir   show Jupyter config dir
+  --data-dir     show Jupyter data dir
+  --runtime-dir  show Jupyter runtime dir
+  --paths        show all Jupyter paths. Add --json for machine-readable
+                 format.
+  --json         output paths as machine-readable json
+  --debug        output debug information about paths
+
+Available subcommands: bundlerextension dejavu execute kernel kernelspec
+migrate nbconvert nbextension notebook run serverextension troubleshoot trust
+
+Please specify a subcommand or one of the optional arguments.
+[C 16:46:52.957 NotebookApp] received signal 15, stopping
+[I 16:46:52.958 NotebookApp] Shutting down 0 kernels
+[I 16:46:52.959 NotebookApp] Shutting down 0 terminals
+[I 16:55:02.876 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:55:02.877 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 16:55:02.877 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 16:55:02.877 NotebookApp] http://localhost:8889/?token=1509cd1c5001249bccd0a300739fadc277fe6a62611fffff
+[I 16:55:02.877 NotebookApp]  or http://127.0.0.1:8889/?token=1509cd1c5001249bccd0a300739fadc277fe6a62611fffff
+[I 16:55:02.877 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:55:02.880 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-160125-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=1509cd1c5001249bccd0a300739fadc277fe6a62611fffff
+     or http://127.0.0.1:8889/?token=1509cd1c5001249bccd0a300739fadc277fe6a62611fffff
+[I 16:58:33.152 NotebookApp] 302 GET /?token=1509cd1c5001249bccd0a300739fadc277fe6a62611fffff (127.0.0.1) 0.820000ms
+[W 16:58:39.470 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 16:58:40.238 NotebookApp] Kernel started: b88340ef-7fba-4a28-924b-432ef7cdd2c1, name: python3
+[W 16:58:40.396 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231123165502 (127.0.0.1) 14.700000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 17:00:40.428 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:00:40.430 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:08:40.404 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:08:40.406 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:10:40.403 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:10:40.404 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:24:40.445 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:24:40.447 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:26:40.399 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:26:40.401 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:28:40.388 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:28:40.389 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:34:40.446 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:34:40.447 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:36:40.376 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:36:40.378 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:38:40.380 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:38:40.381 NotebookApp] Notebook MHMC KMC.ipynb is not trusted
+[I 17:40:40.266 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:44:40.262 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:46:40.259 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:48:40.259 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:49:53.902 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:51:03.474 NotebookApp] Starting buffering for b88340ef-7fba-4a28-924b-432ef7cdd2c1:bdfbb643886c4da99e1d2803df3f7314
+[C 17:52:04.585 NotebookApp] received signal 15, stopping
+[I 17:52:04.586 NotebookApp] Shutting down 1 kernel
+[I 17:52:04.587 NotebookApp] Kernel shutdown: b88340ef-7fba-4a28-924b-432ef7cdd2c1
+[I 17:52:05.104 NotebookApp] Shutting down 0 terminals
+[I 17:52:42.665 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:52:42.666 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 17:52:42.666 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 17:52:42.666 NotebookApp] http://localhost:8889/?token=dfa0432f3af9fb9d5637cf2b845f324e7fc51a743f5112e8
+[I 17:52:42.666 NotebookApp]  or http://127.0.0.1:8889/?token=dfa0432f3af9fb9d5637cf2b845f324e7fc51a743f5112e8
+[I 17:52:42.666 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:52:42.669 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-160242-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=dfa0432f3af9fb9d5637cf2b845f324e7fc51a743f5112e8
+     or http://127.0.0.1:8889/?token=dfa0432f3af9fb9d5637cf2b845f324e7fc51a743f5112e8
+[I 17:53:50.615 NotebookApp] 302 GET /?token=dfa0432f3af9fb9d5637cf2b845f324e7fc51a743f5112e8 (127.0.0.1) 0.810000ms
+[I 17:53:54.176 NotebookApp] Kernel started: ebd6f526-8e73-41ba-94d1-e305af9a5189, name: python3
+[W 17:53:54.235 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231123175242 (127.0.0.1) 14.230000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 18:35:27.272 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:42:00.224 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:42:04.396 NotebookApp] Starting buffering for ebd6f526-8e73-41ba-94d1-e305af9a5189:36aa79ab41f74b29844a1778d4d7208d
+[I 19:42:04.399 NotebookApp] Kernel shutdown: ebd6f526-8e73-41ba-94d1-e305af9a5189
+[I 19:42:07.144 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:42:07.145 NotebookApp] Shutting down 0 kernels
+[I 19:42:07.146 NotebookApp] Shutting down 0 terminals
+[I 19:46:06.130 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:46:06.131 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 19:46:06.131 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 19:46:06.131 NotebookApp] http://localhost:8889/?token=a7824f3130de5c1653e484386fcceca401b300cf76369755
+[I 19:46:06.131 NotebookApp]  or http://127.0.0.1:8889/?token=a7824f3130de5c1653e484386fcceca401b300cf76369755
+[I 19:46:06.131 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:46:06.134 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-160453-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=a7824f3130de5c1653e484386fcceca401b300cf76369755
+     or http://127.0.0.1:8889/?token=a7824f3130de5c1653e484386fcceca401b300cf76369755
+[I 19:47:43.660 NotebookApp] 302 GET /?token=a7824f3130de5c1653e484386fcceca401b300cf76369755 (127.0.0.1) 0.790000ms
+[I 19:47:47.303 NotebookApp] Kernel started: 4f69b8c3-71d3-4cb0-a3fa-22e52756a704, name: python3
+[W 19:47:47.359 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231123194605 (127.0.0.1) 14.330000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 20:59:47.372 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:05:47.369 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:07:47.315 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:09:47.305 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:11:47.317 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:13:05.316 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:15:47.299 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:17:47.301 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:19:48.075 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:16:25.654 NotebookApp] Starting buffering for 4f69b8c3-71d3-4cb0-a3fa-22e52756a704:f013d9b2c8bf4b238bd2860dcd7b4ea2
+[C 02:17:10.788 NotebookApp] received signal 15, stopping
+[I 02:17:10.789 NotebookApp] Shutting down 1 kernel
+[I 02:17:10.790 NotebookApp] Kernel shutdown: 4f69b8c3-71d3-4cb0-a3fa-22e52756a704
+[I 02:17:11.608 NotebookApp] Shutting down 0 terminals
+[I 23:58:03.744 NotebookApp] The port 8888 is already in use, trying another port.
+[I 23:58:03.745 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 23:58:03.745 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 23:58:03.745 NotebookApp] http://localhost:8889/?token=88ba77c002b0e2aa3170f46cb5d57309fbcae025f5922e9c
+[I 23:58:03.745 NotebookApp]  or http://127.0.0.1:8889/?token=88ba77c002b0e2aa3170f46cb5d57309fbcae025f5922e9c
+[I 23:58:03.745 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:58:03.748 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-163188-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=88ba77c002b0e2aa3170f46cb5d57309fbcae025f5922e9c
+     or http://127.0.0.1:8889/?token=88ba77c002b0e2aa3170f46cb5d57309fbcae025f5922e9c
+[I 23:59:30.796 NotebookApp] 302 GET /?token=88ba77c002b0e2aa3170f46cb5d57309fbcae025f5922e9c (127.0.0.1) 0.670000ms
+[I 23:59:35.086 NotebookApp] Kernel started: eb4678fa-2c2d-4c93-b786-f6d725b1228c, name: python3
+[W 23:59:35.133 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231124235803 (127.0.0.1) 14.580000ms referer=http://localhost:8889/notebooks/MHMC%20KMC.ipynb
+[I 00:01:35.916 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:03:35.107 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:11:35.101 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:15:35.899 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:17:35.116 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:19:35.124 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:21:35.907 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:23:35.112 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:25:35.104 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:27:35.102 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:31:35.105 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:05:35.130 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:07:35.120 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:09:35.858 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:11:35.078 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:15:35.870 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:17:35.072 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:27:35.148 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:29:35.070 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:31:35.072 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:33:35.084 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:41:35.137 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:43:35.873 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:45:35.079 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:47:35.083 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:49:35.077 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:51:35.875 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:02:11.128 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:02:16.660 NotebookApp] Starting buffering for eb4678fa-2c2d-4c93-b786-f6d725b1228c:8474c74e4d2a446d8680462f7e586ddc
+[I 03:02:16.668 NotebookApp] Kernel shutdown: eb4678fa-2c2d-4c93-b786-f6d725b1228c
+[I 03:02:22.776 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:02:22.778 NotebookApp] Shutting down 0 kernels
+[I 03:02:22.778 NotebookApp] Shutting down 0 terminals
+[I 13:16:44.648 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 13:16:44.667 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 13:16:44.667 NotebookApp] http://localhost:8888/?token=e589be4a46fc8c144606d16138d91d34e7773a9c7b88048b
+[I 13:16:44.667 NotebookApp]  or http://127.0.0.1:8888/?token=e589be4a46fc8c144606d16138d91d34e7773a9c7b88048b
+[I 13:16:44.667 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:16:44.691 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-3522-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e589be4a46fc8c144606d16138d91d34e7773a9c7b88048b
+     or http://127.0.0.1:8888/?token=e589be4a46fc8c144606d16138d91d34e7773a9c7b88048b
+[I 13:20:39.046 NotebookApp] 302 GET /?token=e589be4a46fc8c144606d16138d91d34e7773a9c7b8 (127.0.0.1) 1.080000ms
+[I 13:20:44.644 NotebookApp] Kernel started: 7c889144-994d-4627-9202-470f01377060, name: python3
+[W 13:20:44.687 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231126131643 (127.0.0.1) 25.590000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 13:30:44.671 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:32:44.616 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:34:44.626 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:36:45.223 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:43:03.231 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:48:44.634 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:50:44.590 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:33:24.394 NotebookApp] Kernel interrupted: 7c889144-994d-4627-9202-470f01377060
+[I 15:34:44.580 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 17:16:45.399 NotebookApp] WebSocket ping timeout after 119928 ms.
+[I 17:16:50.405 NotebookApp] Starting buffering for 7c889144-994d-4627-9202-470f01377060:c7930ac9750246a6bbb6cf2b3e94fb76
+[C 11:08:58.569 NotebookApp] received signal 15, stopping
+[I 11:08:58.571 NotebookApp] Shutting down 1 kernel
+[I 11:08:58.573 NotebookApp] Kernel shutdown: 7c889144-994d-4627-9202-470f01377060
+[I 11:08:59.393 NotebookApp] Shutting down 0 terminals
+[I 11:49:56.664 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 11:49:56.665 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 11:49:56.665 NotebookApp] http://localhost:8888/?token=e22f591b24b668c88919f124c358f1b233e91aaa71be1b9c
+[I 11:49:56.665 NotebookApp]  or http://127.0.0.1:8888/?token=e22f591b24b668c88919f124c358f1b233e91aaa71be1b9c
+[I 11:49:56.665 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:49:56.668 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1385062-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e22f591b24b668c88919f124c358f1b233e91aaa71be1b9c
+     or http://127.0.0.1:8888/?token=e22f591b24b668c88919f124c358f1b233e91aaa71be1b9c
+[I 11:58:14.305 NotebookApp] 302 GET /?token=e22f591b24b668c88919f124c358f1b233e91aaa71be1b9c (127.0.0.1) 0.800000ms
+[W 11:58:20.135 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231127114956 (127.0.0.1) 15.810000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 11:58:20.138 NotebookApp] Kernel started: 685d621c-6cb7-4618-9227-e7f847c9056c, name: python3
+[I 12:00:20.188 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:02:20.125 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:06:20.126 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:08:20.150 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:10:20.782 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:11:56.728 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:16:20.132 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:20:20.136 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:22:20.128 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:24:20.128 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:26:20.130 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:28:20.129 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:30:20.132 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:32:20.781 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:36:20.132 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:37:05.582 NotebookApp] Starting buffering for 685d621c-6cb7-4618-9227-e7f847c9056c:3f878ed6eddc4ff1884810f47e76437b
+[I 12:37:05.591 NotebookApp] Kernel shutdown: 685d621c-6cb7-4618-9227-e7f847c9056c
+[I 12:37:10.862 NotebookApp] Shutting down on /api/shutdown request.
+[I 12:37:10.864 NotebookApp] Shutting down 0 kernels
+[I 12:37:10.864 NotebookApp] Shutting down 0 terminals
+[I 13:06:48.425 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 13:06:48.426 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 13:06:48.426 NotebookApp] http://localhost:8888/?token=b3fd241c4d8f4b01d9606a89c9462047e7e555046a0a6c17
+[I 13:06:48.426 NotebookApp]  or http://127.0.0.1:8888/?token=b3fd241c4d8f4b01d9606a89c9462047e7e555046a0a6c17
+[I 13:06:48.426 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:06:48.429 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1428987-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=b3fd241c4d8f4b01d9606a89c9462047e7e555046a0a6c17
+     or http://127.0.0.1:8888/?token=b3fd241c4d8f4b01d9606a89c9462047e7e555046a0a6c17
+[I 13:08:54.234 NotebookApp] 302 GET /?token=b3fd241c4d8f4b01d9606a89c9462047e7e555046a0a6c17 (127.0.0.1) 0.660000ms
+[I 13:09:00.064 NotebookApp] Kernel started: 76b955a6-70c8-4694-b03f-01ae27377b40, name: python3
+[W 13:09:00.112 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231127130648 (127.0.0.1) 14.510000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 13:11:00.798 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:17:00.144 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:19:00.103 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:21:00.091 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:23:00.102 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:25:00.101 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:27:00.104 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:29:00.086 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:31:00.767 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:57:00.129 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:05:00.087 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:07:00.085 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:09:00.099 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:11:00.085 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:13:00.087 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:15:00.078 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:17:00.091 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:21:00.086 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:23:00.090 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:25:00.082 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:31:00.168 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:33:00.079 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:35:00.096 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:11:00.116 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:13:00.070 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:15:00.060 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:19:00.064 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:37:00.102 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:39:00.752 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:51:00.753 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:53:00.058 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:55:00.046 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:15:00.064 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:17:00.063 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:23:00.106 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:25:00.059 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:29:00.059 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:31:00.053 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:33:00.058 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 18:54:00.720 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 18:54:05.726 NotebookApp] Starting buffering for 76b955a6-70c8-4694-b03f-01ae27377b40:7b27f9e5030d447e86d6d93d43880cbd
+[I 21:29:35.520 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:29:35.521 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 21:29:35.521 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 21:29:35.521 NotebookApp] http://localhost:8889/?token=b60c071b3e902dc436f1d0f315383aeb500de3c4ff42a255
+[I 21:29:35.521 NotebookApp]  or http://127.0.0.1:8889/?token=b60c071b3e902dc436f1d0f315383aeb500de3c4ff42a255
+[I 21:29:35.521 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:29:35.524 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1554456-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=b60c071b3e902dc436f1d0f315383aeb500de3c4ff42a255
+     or http://127.0.0.1:8889/?token=b60c071b3e902dc436f1d0f315383aeb500de3c4ff42a255
+[C 21:30:38.688 NotebookApp] received signal 15, stopping
+[I 21:30:38.688 NotebookApp] Shutting down 0 kernels
+[I 21:30:38.689 NotebookApp] Shutting down 0 terminals
+[C 21:30:47.962 NotebookApp] received signal 15, stopping
+[I 21:30:47.963 NotebookApp] Shutting down 1 kernel
+[I 21:30:47.965 NotebookApp] Kernel shutdown: 76b955a6-70c8-4694-b03f-01ae27377b40
+[I 21:30:49.087 NotebookApp] Shutting down 0 terminals
+[I 21:31:40.311 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 21:31:40.311 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 21:31:40.311 NotebookApp] http://localhost:8888/?token=a41eae251aab326dddcdbd26868bd1d9d07b338e4f2fcad3
+[I 21:31:40.311 NotebookApp]  or http://127.0.0.1:8888/?token=a41eae251aab326dddcdbd26868bd1d9d07b338e4f2fcad3
+[I 21:31:40.311 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:31:40.314 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1554461-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a41eae251aab326dddcdbd26868bd1d9d07b338e4f2fcad3
+     or http://127.0.0.1:8888/?token=a41eae251aab326dddcdbd26868bd1d9d07b338e4f2fcad3
+[I 21:34:41.747 NotebookApp] 302 GET /?token=a41eae251aab326dddcdbd26868bd1d9d07b338e4f2fcad3 (127.0.0.1) 0.770000ms
+[I 21:34:45.898 NotebookApp] Kernel started: 338bf8d0-4574-43be-884c-d5f66bc283e1, name: python3
+[W 21:34:45.966 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231127213140 (127.0.0.1) 14.470000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 21:36:45.941 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 22:52:45.968 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:02:45.954 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:04:45.915 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:06:45.914 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:08:45.914 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:10:45.900 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:12:45.896 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:14:45.898 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:16:45.904 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:18:45.900 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:20:45.902 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:26:45.961 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:40:45.932 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:54:45.947 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:56:45.881 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 23:58:45.890 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:00:45.888 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:02:45.887 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:04:46.640 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:08:45.884 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:10:45.885 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:12:45.888 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:14:45.876 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:20:45.940 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:22:45.884 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:24:45.876 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:26:45.887 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:43:15.449 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:08:46.669 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:12:45.881 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:16:45.873 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:18:45.872 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:20:26.171 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:20:32.998 NotebookApp] Starting buffering for 338bf8d0-4574-43be-884c-d5f66bc283e1:7712ce05d28b4fdbbf9186b90af219a4
+[I 01:20:33.006 NotebookApp] Kernel shutdown: 338bf8d0-4574-43be-884c-d5f66bc283e1
+[I 01:20:35.698 NotebookApp] Shutting down on /api/shutdown request.
+[I 01:20:35.699 NotebookApp] Shutting down 0 kernels
+[I 01:20:35.700 NotebookApp] Shutting down 0 terminals
+[I 01:01:00.167 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 01:01:00.167 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 01:01:00.167 NotebookApp] http://localhost:8888/?token=08d3721578e05e91888a6f050a674ff25c98e057941f6e1f
+[I 01:01:00.167 NotebookApp]  or http://127.0.0.1:8888/?token=08d3721578e05e91888a6f050a674ff25c98e057941f6e1f
+[I 01:01:00.167 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:01:00.170 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1560241-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=08d3721578e05e91888a6f050a674ff25c98e057941f6e1f
+     or http://127.0.0.1:8888/?token=08d3721578e05e91888a6f050a674ff25c98e057941f6e1f
+[I 01:11:46.388 NotebookApp] 302 GET /?token=08d3721578e05e91888a6f050a674ff25c98e057941f6e1f (127.0.0.1) 0.730000ms
+[I 01:11:51.198 NotebookApp] Kernel started: 2602a48b-0d31-4d89-ac4c-8d129aaf96ff, name: python3
+[W 01:11:51.298 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231130010059 (127.0.0.1) 14.600000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 01:55:15.270 NotebookApp] Starting buffering for 2602a48b-0d31-4d89-ac4c-8d129aaf96ff:0ecea1d4cb5e43c280a2c65c55d8966f
+[I 01:55:15.277 NotebookApp] Kernel shutdown: 2602a48b-0d31-4d89-ac4c-8d129aaf96ff
+[I 01:55:18.311 NotebookApp] Shutting down on /api/shutdown request.
+[I 01:55:18.312 NotebookApp] Shutting down 0 kernels
+[I 01:55:18.313 NotebookApp] Shutting down 0 terminals
+[I 22:18:12.724 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 22:18:12.724 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 22:18:12.724 NotebookApp] http://localhost:8888/?token=1c74929620565e8671bf828a0bbded689abb5dc477347ba0
+[I 22:18:12.724 NotebookApp]  or http://127.0.0.1:8888/?token=1c74929620565e8671bf828a0bbded689abb5dc477347ba0
+[I 22:18:12.724 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:18:12.727 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1567750-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=1c74929620565e8671bf828a0bbded689abb5dc477347ba0
+     or http://127.0.0.1:8888/?token=1c74929620565e8671bf828a0bbded689abb5dc477347ba0
+[I 22:23:30.770 NotebookApp] 302 GET /?token=1c74929620565e8671bf828a0bbded689abb5dc477347ba0 (127.0.0.1) 0.790000ms
+[I 22:23:35.106 NotebookApp] Kernel started: 5c31739c-d335-451d-b06c-b44f56ce655d, name: python3
+[W 22:23:35.183 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231203221812 (127.0.0.1) 14.520000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 22:25:35.147 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 22:27:35.141 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 22:29:35.141 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:21:35.162 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:23:35.687 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:27:35.111 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:29:35.118 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:31:35.104 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:33:35.105 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:35:35.112 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:37:35.110 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:39:35.111 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:41:35.097 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:43:35.100 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:45:35.100 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:47:35.101 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:49:35.096 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:51:35.101 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:52:30.190 NotebookApp] Kernel interrupted: 5c31739c-d335-451d-b06c-b44f56ce655d
+[I 01:53:35.104 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:55:35.119 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:57:15.573 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:57:18.417 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:57:29.522 NotebookApp] Starting buffering for 5c31739c-d335-451d-b06c-b44f56ce655d:5056c25f663a4f5c80486e7c3b30d8c8
+[I 20:46:26.906 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:46:26.907 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 20:46:26.907 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 20:46:26.907 NotebookApp] http://localhost:8889/?token=124b22a8410e3cd221ec272b65c1ff86a2593783d6cd311f
+[I 20:46:26.907 NotebookApp]  or http://127.0.0.1:8889/?token=124b22a8410e3cd221ec272b65c1ff86a2593783d6cd311f
+[I 20:46:26.907 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:46:26.910 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1833695-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=124b22a8410e3cd221ec272b65c1ff86a2593783d6cd311f
+     or http://127.0.0.1:8889/?token=124b22a8410e3cd221ec272b65c1ff86a2593783d6cd311f
+[C 20:52:44.015 NotebookApp] received signal 15, stopping
+[I 20:52:44.016 NotebookApp] Shutting down 0 kernels
+[I 20:52:44.016 NotebookApp] Shutting down 0 terminals
+[I 21:29:49.507 NotebookApp] 302 GET / (127.0.0.1) 1.740000ms
+[W 21:29:56.437 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231203221812 (127.0.0.1) 2.780000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 21:29:56.721 NotebookApp] Discarding 32 buffered messages for 5c31739c-d335-451d-b06c-b44f56ce655d:5056c25f663a4f5c80486e7c3b30d8c8
+[I 21:43:40.320 NotebookApp] Starting buffering for 5c31739c-d335-451d-b06c-b44f56ce655d:b0e7df6003b34fc38b8ec2ff174831e0
+[I 22:04:14.199 NotebookApp] 302 GET / (127.0.0.1) 0.820000ms
+[W 22:04:21.635 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231203221812 (127.0.0.1) 2.660000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 22:26:21.887 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 22:28:22.024 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 23:02:51.918 NotebookApp] WebSocket ping timeout after 119648 ms.
+[I 23:02:56.921 NotebookApp] Starting buffering for 5c31739c-d335-451d-b06c-b44f56ce655d:155c21854d6c4722a2147c299b639946
+[I 01:38:07.817 NotebookApp] 302 GET / (127.0.0.1) 0.890000ms
+[W 01:38:14.898 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231203221812 (127.0.0.1) 3.360000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 02:08:15.690 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:20:15.667 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:30:15.098 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:38:15.392 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:42:15.097 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:54:31.869 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:05:41.885 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 03:09:45.188 NotebookApp] WebSocket ping timeout after 119708 ms.
+[I 03:09:50.189 NotebookApp] Starting buffering for 5c31739c-d335-451d-b06c-b44f56ce655d:0eefcf462d8546668fe66e377dcb5a1d
+[I 08:45:56.659 NotebookApp] 302 GET / (127.0.0.1) 0.850000ms
+[W 08:46:05.871 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231203221812 (127.0.0.1) 2.490000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 09:26:06.908 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:28:06.254 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:36:06.748 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:38:06.411 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:40:06.327 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:48:06.509 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:54:06.524 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:32:06.661 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:34:06.185 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:36:06.224 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:42:06.755 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:44:06.464 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:50:06.760 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:52:06.382 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 11:24:12.053 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 11:24:19.830 NotebookApp] Starting buffering for 5c31739c-d335-451d-b06c-b44f56ce655d:2ca537efeed0490b883cb46f25699d5d
+[I 11:24:19.833 NotebookApp] Kernel shutdown: 5c31739c-d335-451d-b06c-b44f56ce655d
+[I 11:24:27.822 NotebookApp] Shutting down on /api/shutdown request.
+[I 11:24:27.823 NotebookApp] Shutting down 0 kernels
+[I 11:24:27.823 NotebookApp] Shutting down 0 terminals
+[I 23:47:42.620 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 23:47:42.620 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 23:47:42.620 NotebookApp] http://localhost:8888/?token=89138ff224ede591a25b3a5af2c2f1e05011abc6294d3971
+[I 23:47:42.620 NotebookApp]  or http://127.0.0.1:8888/?token=89138ff224ede591a25b3a5af2c2f1e05011abc6294d3971
+[I 23:47:42.620 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:47:42.623 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1867546-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=89138ff224ede591a25b3a5af2c2f1e05011abc6294d3971
+     or http://127.0.0.1:8888/?token=89138ff224ede591a25b3a5af2c2f1e05011abc6294d3971
+[I 23:56:25.884 NotebookApp] 302 GET / (127.0.0.1) 0.670000ms
+[I 23:56:34.305 NotebookApp] Kernel started: a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5, name: python3
+[W 23:56:34.549 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231215234742 (127.0.0.1) 14.740000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 23:58:34.564 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:04:36.570 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:06:35.405 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:08:35.118 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 00:30:42.254 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:04:35.664 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:08:35.115 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:10:35.104 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:12:34.836 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:14:34.843 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:16:34.834 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:18:34.813 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:20:38.811 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:24:35.950 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:06:35.937 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:50:35.441 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:51:59.874 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:52:27.233 NotebookApp] Starting buffering for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:2454eebfc7a141988cba3d21cac275aa
+[I 01:00:59.110 NotebookApp] 302 GET / (127.0.0.1) 1.970000ms
+[W 01:01:06.698 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231215234742 (127.0.0.1) 2.490000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 01:01:07.038 NotebookApp] Discarding 11 buffered messages for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:2454eebfc7a141988cba3d21cac275aa
+[I 01:03:07.017 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:05:06.736 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:07:06.740 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:09:06.724 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:15:08.602 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:17:07.033 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:19:07.049 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:41:07.661 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:43:07.034 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:54:23.088 NotebookApp] Starting buffering for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:1a70e882984a474180ae1c4b36c73a1c
+[I 07:57:18.249 NotebookApp] 302 GET / (127.0.0.1) 2.100000ms
+[W 07:57:24.347 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231215234742 (127.0.0.1) 2.470000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 07:59:24.703 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 08:03:26.198 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 08:07:24.655 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 08:09:24.674 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 08:11:24.395 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 08:22:24.654 NotebookApp] WebSocket ping timeout after 119624 ms.
+[I 08:22:29.657 NotebookApp] Starting buffering for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:b74e0c5848314483a7c69cfdc3a38030
+[I 07:29:26.056 NotebookApp] 302 GET / (127.0.0.1) 3.610000ms
+[W 07:29:32.477 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231215234742 (127.0.0.1) 2.450000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 07:31:32.786 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 07:39:13.601 NotebookApp] Starting buffering for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:cfc89bfaac7c45d69df80da54ae900df
+[I 01:16:16.233 NotebookApp] 302 GET / (127.0.0.1) 1.780000ms
+[I 01:16:16.530 NotebookApp] 302 GET /tree? (127.0.0.1) 1.690000ms
+[I 01:17:40.892 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.210000ms
+[W 01:17:51.255 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20231215234742 (127.0.0.1) 3.160000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 01:17:51.556 NotebookApp] Discarding 14 buffered messages for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:cfc89bfaac7c45d69df80da54ae900df
+[I 01:19:51.285 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:21:51.293 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:23:51.277 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:25:52.502 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:27:51.576 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:29:51.568 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:31:51.311 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:33:51.269 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:35:51.275 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:39:51.261 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:41:51.277 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:43:51.282 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:45:51.273 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 01:51:51.281 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:47:52.077 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:51:51.255 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 02:53:51.782 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:37:40.705 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:37:42.817 NotebookApp] Starting buffering for a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5:62ce045d11bf45c78da2bd68ddc193ef
+[I 03:37:42.822 NotebookApp] Kernel shutdown: a5c7d70f-f2b6-4cca-b8a9-10e4a5ee89b5
+[I 03:37:49.037 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:37:49.038 NotebookApp] Shutting down 0 kernels
+[I 03:37:49.038 NotebookApp] Shutting down 0 terminals
+[I 08:24:22.498 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Li-ion-Hopping
+[I 08:24:22.498 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 08:24:22.498 NotebookApp] http://localhost:8888/?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65
+[I 08:24:22.498 NotebookApp]  or http://127.0.0.1:8888/?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65
+[I 08:24:22.498 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:24:22.501 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-3345784-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65
+     or http://127.0.0.1:8888/?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65
+[I 08:25:47.786 NotebookApp] 302 GET /?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65 (127.0.0.1) 0.620000ms
+[I 08:25:54.838 NotebookApp] Kernel started: acd852ec-f94b-4ca8-af43-b155adc56db0, name: python3
+[W 08:25:55.120 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 14.870000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 08:27:55.429 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:03:56.014 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:05:55.441 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:15:55.455 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:17:55.113 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 09:19:02.473 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:b5a08b1e389c4c9f981cbe56976ff0f0
+[I 15:41:35.347 NotebookApp] 302 GET / (127.0.0.1) 3.170000ms
+[W 15:41:38.427 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.440000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 15:41:38.472 NotebookApp] Discarding 11 buffered messages for acd852ec-f94b-4ca8-af43-b155adc56db0:b5a08b1e389c4c9f981cbe56976ff0f0
+[I 15:47:38.454 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:49:38.443 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:07:38.935 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:13:38.478 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:19:38.468 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:21:38.453 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:37:38.465 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:39:38.428 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:41:38.908 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 18:23:38.452 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 18:25:38.431 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 23:29:08.474 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 23:29:13.476 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:93be788febbd40278849c0b09552bf85
+[I 13:23:38.408 NotebookApp] 302 GET / (127.0.0.1) 0.810000ms
+[W 13:23:41.215 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.390000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 13:45:41.167 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:47:41.148 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:49:41.150 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:51:41.160 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:55:41.160 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:57:41.150 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 13:59:41.159 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:07:41.381 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:09:41.152 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:11:41.152 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:13:41.155 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:15:41.911 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:17:41.150 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 14:21:41.153 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:03:41.131 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:05:41.138 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:07:41.894 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:09:41.134 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:19:41.144 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:21:41.127 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:23:41.135 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:25:41.131 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:27:41.140 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:29:41.129 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:33:41.134 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:41:41.140 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:55:41.134 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:57:41.134 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 15:59:41.127 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:01:41.120 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:03:41.131 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:05:41.130 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:05:23.393 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:9d6293f2a98541ab947f6f4ffbe711d4
+[I 16:03:31.297 NotebookApp] 302 GET / (127.0.0.1) 5.100000ms
+[W 16:03:36.486 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.650000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 16:05:36.399 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:07:36.385 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:09:36.393 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:11:37.143 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:15:37.142 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:25:36.387 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:27:36.391 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:31:36.390 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:33:36.388 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:35:36.387 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:37:36.373 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:39:36.379 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:55:36.379 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:57:36.368 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 16:59:36.369 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 17:49:37.130 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 18:36:50.800 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 18:37:21.468 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:a4a71293512d4b448a046367bc740b3d
+[I 19:07:45.395 NotebookApp] 302 GET / (127.0.0.1) 0.880000ms
+[I 19:07:50.445 NotebookApp] Discarding 3 buffered messages for acd852ec-f94b-4ca8-af43-b155adc56db0:a4a71293512d4b448a046367bc740b3d
+[W 19:07:50.514 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 3.050000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 19:09:50.420 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:13:50.424 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:17:50.425 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:19:50.409 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 19:21:50.419 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 20:25:20.447 NotebookApp] WebSocket ping timeout after 119936 ms.
+[I 20:25:25.449 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:245bf72082e94aa681a0cbe4632fbe01
+[I 10:30:07.068 NotebookApp] 302 GET / (127.0.0.1) 3.940000ms
+[W 10:30:11.147 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.430000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 10:32:11.201 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:34:11.186 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:36:11.171 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 10:36:28.998 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:2908a6719c9d40bfab0fb575c701090f
+[I 12:42:27.196 NotebookApp] 302 GET / (127.0.0.1) 1.760000ms
+[I 12:42:31.972 NotebookApp] Discarding 3 buffered messages for acd852ec-f94b-4ca8-af43-b155adc56db0:2908a6719c9d40bfab0fb575c701090f
+[W 12:42:32.015 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.540000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 12:44:31.971 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:48:31.968 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:52:31.963 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:54:31.968 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 12:55:14.744 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:904d338af5b84ed68008cea0481e2b5d
+[I 15:16:09.015 NotebookApp] 302 GET / (127.0.0.1) 1.770000ms
+[I 15:16:09.067 NotebookApp] 302 GET /tree? (127.0.0.1) 1.590000ms
+[I 15:17:07.017 NotebookApp] 302 GET /?token=8826c0016348c58a7e0bc4806b9a0bd9b6e6b7d59c174a65 (127.0.0.1) 4.400000ms
+[I 15:17:13.093 NotebookApp] Discarding 3 buffered messages for acd852ec-f94b-4ca8-af43-b155adc56db0:904d338af5b84ed68008cea0481e2b5d
+[W 15:17:14.014 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 2.450000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 17:07:13.117 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:03:13.042 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:05:12.988 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:07:12.995 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:11:09.535 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:1daedfd854f44e0a9600828b3169f58e
+[I 20:11:09.676 NotebookApp] Kernel interrupted: acd852ec-f94b-4ca8-af43-b155adc56db0
+[I 20:11:13.011 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:11:16.694 NotebookApp] Kernel restarted: acd852ec-f94b-4ca8-af43-b155adc56db0
+[I 20:11:16.935 NotebookApp] Restoring connection for acd852ec-f94b-4ca8-af43-b155adc56db0:1daedfd854f44e0a9600828b3169f58e
+[I 20:13:12.973 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:15:12.975 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:21:12.973 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:23:12.956 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:25:12.964 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:29:13.016 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:32:46.687 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel acd852ec-f94b-4ca8-af43-b155adc56db0 restarted
+[I 20:33:12.950 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:35:12.960 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:37:12.959 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:39:12.952 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:43:12.970 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:45:12.960 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:49:12.992 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:51:12.969 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:53:12.970 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 20:55:12.958 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:07:13.232 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 21:11:55.827 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel acd852ec-f94b-4ca8-af43-b155adc56db0 restarted
+[I 21:13:12.962 NotebookApp] Saving file at /MHMC KMC.ipynb
+[W 22:57:46.939 NotebookApp] WebSocket ping timeout after 119934 ms.
+[I 22:57:51.946 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:1daedfd854f44e0a9600828b3169f58e
+[I 02:38:04.043 NotebookApp] 302 GET / (127.0.0.1) 4.120000ms
+[W 02:38:12.240 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240108082422 (127.0.0.1) 3.120000ms referer=http://localhost:8888/notebooks/MHMC%20KMC.ipynb
+[I 03:02:12.859 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:04:12.150 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:06:12.148 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:08:12.143 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:10:12.139 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:12:12.842 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:19:44.425 NotebookApp] Saving file at /MHMC KMC.ipynb
