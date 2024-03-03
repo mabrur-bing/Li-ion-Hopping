@@ -971,3 +971,9 @@ WARNING:root:kernel acd852ec-f94b-4ca8-af43-b155adc56db0 restarted
 [I 03:12:12.842 NotebookApp] Saving file at /MHMC KMC.ipynb
 [I 03:19:44.425 NotebookApp] Saving file at /MHMC KMC.ipynb
 [I 03:24:12.848 NotebookApp] Saving file at /MHMC KMC.ipynb
+[I 03:25:24.092 NotebookApp] Starting buffering for acd852ec-f94b-4ca8-af43-b155adc56db0:79ccbe72aedc4769a67d5139b70d26b8
+[I 03:27:12.490 NotebookApp] 302 GET / (127.0.0.1) 0.810000ms
+[I 03:27:15.928 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:27:15.933 NotebookApp] Shutting down 1 kernel
+[I 03:27:15.937 NotebookApp] Kernel shutdown: acd852ec-f94b-4ca8-af43-b155adc56db0
+[I 03:27:16.456 NotebookApp] Shutting down 0 terminals
